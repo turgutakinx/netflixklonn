@@ -8,7 +8,7 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 
 The repository helps you learn React by building Netflix. It means that you are learning React.js by building a real-life project. I will explain the concepts in detail.
 
-My post is about **Learn React By Building Netflix** on Dev.to: https://dev.to/hieptl/learn-react-by-building-netflix-1127
+
 
 > If you feel the repository is useful, please help me share the post and give me a :star: It will make me feel the motivation to work even harder. I will try to make many open sources and share them with the community.
 
